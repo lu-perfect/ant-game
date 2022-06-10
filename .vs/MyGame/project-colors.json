@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad3569b3-87e6-4374-99c0-b6aaae1307b3": {
+      "ProjectGuid": "ad3569b3-87e6-4374-99c0-b6aaae1307b3",
+      "DisplayName": "MyGame.Framework",
+      "ColorIndex": 0
+    },
+    "21181299-be5e-4586-82f3-e3d425c05bc3": {
+      "ProjectGuid": "21181299-be5e-4586-82f3-e3d425c05bc3",
+      "DisplayName": "MyGame.Core",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "0c3308d6-a569-4b7d-a1ff-feb3f1bc3f91": {
+      "ProjectGuid": "0c3308d6-a569-4b7d-a1ff-feb3f1bc3f91",
+      "DisplayName": "MyGame.Console",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

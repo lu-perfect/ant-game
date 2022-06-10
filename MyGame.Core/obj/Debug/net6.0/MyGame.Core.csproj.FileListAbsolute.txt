@@ -1,0 +1,15 @@
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\MyGame.Core.csproj.AssemblyReference.cache
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\MyGame.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\MyGame.Core.AssemblyInfoInputs.cache
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\MyGame.Core.AssemblyInfo.cs
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\MyGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\bin\Debug\net6.0\MyGame.Core.deps.json
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\bin\Debug\net6.0\MyGame.Core.dll
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\bin\Debug\net6.0\ref\MyGame.Core.dll
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\bin\Debug\net6.0\MyGame.Core.pdb
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\bin\Debug\net6.0\MyGame.Framework.dll
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\bin\Debug\net6.0\MyGame.Framework.pdb
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\MyGame.Core.csproj.CopyComplete
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\MyGame.Core.dll
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\ref\MyGame.Core.dll
+C:\Users\Shop59\source\repos\MyGame\MyGame.Core\obj\Debug\net6.0\MyGame.Core.pdb

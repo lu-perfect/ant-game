@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyGame.Core/1.0.0": {
+        "dependencies": {
+          "MyGame.Framework": "1.0.0"
+        },
+        "runtime": {
+          "MyGame.Core.dll": {}
+        }
+      },
+      "MyGame.Framework/1.0.0": {
+        "runtime": {
+          "MyGame.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyGame.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyGame.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
